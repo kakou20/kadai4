@@ -1,5 +1,5 @@
 language:bash
 script:
- - echo "kadai4"
- - ./gcd-test.sh
-
+  - echo "kadai4"
+  - echo Travis CI commit -m "set travis CI setting files" 
+  - ./gcd-test.sh
